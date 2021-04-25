@@ -1,2 +1,4 @@
 # Jiggereepuff.github.io
-# Hello everyone, I needa learn how to roll down faster.
+
+# A basic website with my resume
+# Hopefully will look nicer one day when I am interested in web dev
